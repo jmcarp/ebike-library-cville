@@ -2,7 +2,7 @@
 
 E-bikes can be a great alternative to driving, but they can also be a significant financial investment. We're loaning out e-bikes for up to a week so that community members can try commuting to work and running errands, and decide whether an e-bike is right for them.
 
-This is a lending library and not a rental service, so there's no charge for borrowing the e-bikes. But if you'd like to make a small donation to help with maintenance or add mores e-bikes to the library, we'd appreciate it! We also use referrals to buy e-bikes and accessories from [Rad Power Bikes](https://www.radpowerbikes.com/)—use our [referral code](http://rwrd.io/mt2dtbd?c) to save $50.
+This is a lending library and not a rental service, so there's no charge for borrowing the e-bikes. But if you'd like to make a small donation to help with maintenance or add mores e-bikes to the library, we'd appreciate it! We also use referrals to fund the library. If you buy an e-bike from [Rad Power Bikes](https://www.radpowerbikes.com/), you can use our [referral code](http://rwrd.io/mt2dtbd?c) to save $50, and Rad will give us a $50 credit.
 
 # What even is an e-bike? Why would I want one?
 
@@ -24,7 +24,7 @@ Contact us at hi@ebikelibrarycville.org to schedule a time to borrow an e-bike, 
 
 * The utility bike: a [RadRunner Plus](https://www.radpowerbikes.com/products/radrunner-plus-electric-utility-bike). Fits riders 4'11" to 6'2"; carries up to 300 lb; weighs about 78 lb. Check [availability](https://calendar.google.com/calendar/embed?src=el8ge7ipfsd4iquqftblrgaqv4%40group.calendar.google.com&ctz=America%2FNew_York):
 
-  <iframe src="https://calendar.google.com/calendar/embed?src=el8ge7ipfsd4iquqftblrgaqv4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="560" height="420" frameborder="0" scrolling="no"></iframe>): 
+  <iframe src="https://calendar.google.com/calendar/embed?src=el8ge7ipfsd4iquqftblrgaqv4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="560" height="420" frameborder="0" scrolling="no"></iframe>
 
 * (Coming soon) The cargo bike: a [RadWagon 4](https://www.radpowerbikes.com/collections/electric-bikes/products/radwagon-electric-cargo-bike). Fits riders 5'1" to 6'4"; carries up to 350 lb.; weighs about 77 lb. Check [availability](https://calendar.google.com/calendar/embed?src=aohdup6p62o5lrf1cliv6iamo0%40group.calendar.google.com&ctz=America%2FNew_York):
 
