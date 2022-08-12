@@ -33,3 +33,15 @@ Contact us at hi@ebikelibrarycville.org to schedule a time to borrow an e-bike, 
 # Testimonials
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Borrowing an eBike from <a href="https://twitter.com/whatthecarp?ref_src=twsrc%5Etfw">@whatthecarp</a> and <a href="https://twitter.com/RoryStolzenberg?ref_src=twsrc%5Etfw">@RoryStolzenberg</a> this week! First commute to work was a success—80 degrees and not too sweaty😅 <a href="https://t.co/34oQu8CEy9">pic.twitter.com/34oQu8CEy9</a></p>&mdash; Greg @ Green New Deal🌹🌍✊ (@ScoreVGM) <a href="https://twitter.com/ScoreVGM/status/1544663236611637250?ref_src=twsrc%5Etfw">July 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Events
+
+## Upcoming
+
+Fall 2022 e-bike demo day: TBD
+
+## Past
+
+Spring 2022 e-bike demo day:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">E-bike demo day - happening today! Come talk about e-bikes, learn about e-bikes, try some e-bikes! <br><br>The rain should hold off until after the event is over, but bring a jacket in case it drizzles. <a href="https://t.co/GIHisdeLun">pic.twitter.com/GIHisdeLun</a></p>&mdash; A, B and C (@AreThereSheep) <a href="https://twitter.com/AreThereSheep/status/1520766481994235906?ref_src=twsrc%5Etfw">May 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
