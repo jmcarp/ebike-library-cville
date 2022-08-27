@@ -1,14 +1,29 @@
-# What is this?
+# Why e-bikes?
 
-E-bikes can be a great alternative to driving, but they can also be a significant financial investment. We're loaning out e-bikes for up to a week so that community members can try commuting to work and running errands, and decide whether an e-bike is right for them.
+E-bikes are much like standard bicycles, but use an electric pedal assist system
+to power the bike as you pedal. E-bikes can be a great alternative to
+driving for short trips, and you don't have to worry about paying for
+gas or parking. And they're family-friendly: cargo e-bikes can carry a
+week's worth of groceries or a few kids.
 
-This is a lending library and not a rental service, so there's no charge for borrowing the e-bikes. But if you'd like to make a small donation to help with maintenance or add mores e-bikes to the library, we'd appreciate it! We also use referrals to fund the library. If you buy an e-bike from [Rad Power Bikes](https://www.radpowerbikes.com/), you can use our [referral code](http://rwrd.io/mt2dtbd?c) to save $50, and Rad will give us a $50 credit.
+The Charlottesville E-bike Lending Library loans out e-bikes for up to a
+week so that you can get real-life experience on an e-bike
+and decide whether e-bikes are right for you. You can test out your
+commute to work or school, compare different routes, and even take a
+friend or kid along for a ride—although kids love e-bikes and might not
+be willing to give them up!
 
-# What even is an e-bike? Why would I want one?
+# How much does it cost?
 
-An e-bike is basically a standard bicycle with an electric motor. The motor engages as you pedal, and you can adjust the level of pedal assist to get more or less help from the e-bike. Some e-bikes, including our loaner, also have a throttle that you can use to activate the motor without pedaling.
+Nothing! This is a lending library and not a rental service, so there's no charge for borrowing our e-bikes. But if you'd like to make a small donation to help with maintenance or add mores e-bikes to the library, we'd appreciate it!
 
-Using an e-bike instead of a car can save you money: even high-end e-bikes are much cheaper than a car, and you won’t have to pay for gas or parking. Commuting with an e-bike instead of a car is also a great way to reduce your carbon footprint. Plus, it's fun!
+We also have referral codes for some popular ebike makers. If you buy one of
+those ebikes and use our code, we'll either send you any discount we
+receive, or pass it on to another local ebike buyer—your choice.
+
+* Aventon (you save 5%, we get a $50 coupon): https://prz.io/XgyBjx4tK
+* Rad Power Bikes (you save $50, we get a $50 coupon): http://rwrd.io/mt2dtbd?c
+* Ride1Up (we get 5%): https://ride1up.com/?wpam_id=1079
 
 # How do I sign up?
 
@@ -16,7 +31,7 @@ Contact us at hi@ebikelibrarycville.org to schedule a time to borrow an e-bike, 
 
 # Eligibility
 
-* We really don't want our e-bikes to get stolen, so you should be able to store one indoors at home, and have a secure place to lock it up (ideally also indoors) if you’re commuting to work or to school. We'll provide a lock and show you how to use it. We also use a tracker to help prevent the e-bikes from being stolen, but we'll only use it if  an e-bike goes missing.
+* We really don't want our e-bikes to get stolen, so you should be able to store one indoors at home, and have a secure place to lock it up (ideally also indoors) if you’re commuting to work or to school. We'll provide a lock and show you how to use it. We also use a tracker to help prevent the e-bikes from being stolen, but we'll only use it if an e-bike goes missing.
 * You should be comfortable with the height and weight recommendations for [our e-bikes](#our-e-bikes). We're hoping to find e-bikes that fit a wider range of rider in the future. E-bikes are generally heavier than standard bicycles, so you might not want to carry them up or down stairs.
 * You should be comfortable riding a standard bicycle and familiar with local bicycling rules. If you're planning to commute on the e-bike, you should map out a route that you’ll feel safe on. Unfortunately, some roads in the area aren’t very bike-friendly.
 
