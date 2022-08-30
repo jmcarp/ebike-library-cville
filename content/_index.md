@@ -17,13 +17,24 @@ be willing to give them up!
 
 Nothing! This is a lending library and not a rental service, so there's no charge for borrowing our e-bikes. But if you'd like to make a small donation to help with maintenance or add mores e-bikes to the library, we'd appreciate it!
 
-We also have referral codes for some popular ebike makers. If you buy one of
-those ebikes and use our code, we'll either send you any discount we
-receive, or pass it on to another local ebike buyer—your choice.
+We also have referral codes for some popular e-bike makers. If you buy one of
+those e-bikes and use our code, you'll save money on the e-bike, and we'll
+get a coupon or gift card, which we'll either give to you or pass on to
+another local e-bike buyer—your choice.
 
 * Aventon (you save 5%, we get a $50 coupon): https://prz.io/XgyBjx4tK
 * Rad Power Bikes (you save $50, we get a $50 coupon): http://rwrd.io/mt2dtbd?c
+* Radio Flyer (you save $50, we get a $50 coupon): https://flyer.radioflyer.com/?ref=REFJNTBCRELOLCJ
 * Ride1Up (we get 5%): https://ride1up.com/?wpam_id=1079
+
+# But I'm not in shape!
+
+No problem! Our e-bikes are designed for commuters and parents, so you
+don't have to be a dedicated cyclist to ride them. The e-bikes we loan
+out have step-through frames, so you don't have to swing your leg over
+the seat; wide tires for stability; and, of course, electric
+pedal-assist, so you can keep up with car traffic without breaking a
+sweat.
 
 # How do I sign up?
 
