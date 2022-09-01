@@ -36,6 +36,8 @@ the seat; wide tires for stability; and, of course, electric
 pedal-assist, so you can keep up with car traffic without breaking a
 sweat.
 
+We're also happy to help you find a safe route or secure bike parking.
+
 # How do I sign up?
 
 Contact us at hi@ebikelibrarycville.org to schedule a time to borrow an e-bike, or to ask questions. You can also see current reservations on [our e-bikes](#our-e-bikes) below. You can borrow an e-bike for up to a week at a time. Then when you're done, tell your friends to get in touch and borrow an e-bike!
@@ -52,7 +54,7 @@ Contact us at hi@ebikelibrarycville.org to schedule a time to borrow an e-bike, 
 
   <iframe src="https://calendar.google.com/calendar/embed?src=el8ge7ipfsd4iquqftblrgaqv4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="560" height="420" frameborder="0" scrolling="no"></iframe>
 
-* (Coming soon) The cargo bike: a [RadWagon 4](https://www.radpowerbikes.com/collections/electric-bikes/products/radwagon-electric-cargo-bike). Fits riders 5'1" to 6'4"; carries up to 350 lb.; weighs about 77 lb. Check [availability](https://calendar.google.com/calendar/embed?src=aohdup6p62o5lrf1cliv6iamo0%40group.calendar.google.com&ctz=America%2FNew_York):
+* **Out of commission for maintenance; back later in September.** The cargo bike: a [RadWagon 4](https://www.radpowerbikes.com/collections/electric-bikes/products/radwagon-electric-cargo-bike). Fits riders 5'1" to 6'4"; carries up to 350 lb.; weighs about 77 lb. We have child seats for kids age 1-3, and a bench seat for bigger kids. Check [availability](https://calendar.google.com/calendar/embed?src=aohdup6p62o5lrf1cliv6iamo0%40group.calendar.google.com&ctz=America%2FNew_York):
 
   <iframe src="https://calendar.google.com/calendar/embed?src=aohdup6p62o5lrf1cliv6iamo0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="560" height="420" frameborder="0" scrolling="no"></iframe>
 
