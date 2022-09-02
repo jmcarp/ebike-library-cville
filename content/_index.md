@@ -66,7 +66,12 @@ Contact us at hi@ebikelibrarycville.org to schedule a time to borrow an e-bike, 
 
 ## Upcoming
 
-Fall 2022 e-bike demo day: TBD
+Fall 2022 e-bike demo day, organized by [Livable Cville](http://livablecville.org): Join us October 16th from 2:00-4:00 at Meade
+Park to test-ride a variety of e-bikes. Sign up to [test-ride](https://www.eventbrite.com/e/ebike-demo-day-october-tickets-411906010967) or
+[bring an ebike to show off](https://docs.google.com/forms/d/e/1FAIpQLSdHOqKuAzPdaHKDCNzUkWp30-QEWOhad9he6LXjJoBjeDgjzQ/viewform), or both!
+
+<img src="/ebike-demo-day-1016-flyer.jpg" alt="E-bike demo day flyer"
+width="400"/>
 
 ## Past
 
