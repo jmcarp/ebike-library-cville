@@ -1,3 +1,5 @@
+> Read about us in [Charlottesville Tomorrow](https://www.cvilletomorrow.org/wanna-try-an-e-bike-josh-carp-will-lend-you-his/)!
+
 # Why e-bikes?
 
 E-bikes are much like standard bicycles, but use an electric pedal assist system
