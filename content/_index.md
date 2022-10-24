@@ -1,5 +1,10 @@
 > Read about us in [Charlottesville Tomorrow](https://www.cvilletomorrow.org/wanna-try-an-e-bike-josh-carp-will-lend-you-his/)!
 
+We're a free e-bike lending library serving the Charlottesville area.
+You can visit and test-ride any of our e-bikes, or take one home for up to a week
+at a time. To sign up to borrow an e-bike, fill out [our signup form](https://forms.gle/9dx8FcBxav17x7C38)
+or email us at hi@ebikelibrarycville.org.
+
 # Why e-bikes?
 
 E-bikes are much like standard bicycles, but use an electric pedal assist system
@@ -25,6 +30,7 @@ get a coupon or gift card, which we'll either give to you or pass on to
 another local e-bike buyer—your choice.
 
 * Aventon (you save 5%, we get a $50 coupon): https://prz.io/XgyBjx4tK
+* Blix (you save $50, we get a $50 coupon): http://blixbike.refr.cc/cvilleebikelendingli
 * Rad Power Bikes (you save $50, we get a $50 coupon): http://rwrd.io/mt2dtbd?c
 * Radio Flyer (you save $50, we get a $50 coupon): https://flyer.radioflyer.com/?ref=REFJNTBCRELOLCJ
 * Ride1Up (we get 5%): https://ride1up.com/?wpam_id=1079
@@ -56,7 +62,7 @@ Contact us at hi@ebikelibrarycville.org to schedule a time to borrow an e-bike, 
 
   <iframe src="https://calendar.google.com/calendar/embed?src=el8ge7ipfsd4iquqftblrgaqv4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="560" height="420" frameborder="0" scrolling="no"></iframe>
 
-* **Out of commission for maintenance; back later in September.** The cargo bike: a [RadWagon 4](https://www.radpowerbikes.com/collections/electric-bikes/products/radwagon-electric-cargo-bike). Fits riders 5'1" to 6'4"; carries up to 350 lb.; weighs about 77 lb. We have child seats for kids age 1-3, and a bench seat for bigger kids. Check [availability](https://calendar.google.com/calendar/embed?src=aohdup6p62o5lrf1cliv6iamo0%40group.calendar.google.com&ctz=America%2FNew_York):
+* **Out of commission for maintenance; back once replacement parts are available.** The cargo bike: a [RadWagon 4](https://www.radpowerbikes.com/collections/electric-bikes/products/radwagon-electric-cargo-bike). Fits riders 5'1" to 6'4"; carries up to 350 lb.; weighs about 77 lb. We have child seats for kids age 1-3, and a bench seat for bigger kids. Check [availability](https://calendar.google.com/calendar/embed?src=aohdup6p62o5lrf1cliv6iamo0%40group.calendar.google.com&ctz=America%2FNew_York):
 
   <iframe src="https://calendar.google.com/calendar/embed?src=aohdup6p62o5lrf1cliv6iamo0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="560" height="420" frameborder="0" scrolling="no"></iframe>
 
@@ -66,16 +72,12 @@ Contact us at hi@ebikelibrarycville.org to schedule a time to borrow an e-bike, 
 
 # Events
 
-## Upcoming
+## Past
 
-Fall 2022 e-bike demo day, organized by [Livable Cville](http://livablecville.org): Join us October 16th from 2:00-4:00 at Meade
-Park to test-ride a variety of e-bikes. Sign up to [test-ride](https://www.eventbrite.com/e/ebike-demo-day-october-tickets-411906010967) or
-[bring an ebike to show off](https://docs.google.com/forms/d/e/1FAIpQLSdHOqKuAzPdaHKDCNzUkWp30-QEWOhad9he6LXjJoBjeDgjzQ/viewform), or both!
+Fall 2022 e-bike demo day, organized by [Livable Cville](http://livablecville.org):
 
 <img src="/ebike-demo-day-1016-flyer.jpg" alt="E-bike demo day flyer"
 width="400"/>
-
-## Past
 
 Spring 2022 e-bike demo day:
 
