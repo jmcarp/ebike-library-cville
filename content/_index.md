@@ -1,9 +1,11 @@
 > Read about us in [Charlottesville Tomorrow](https://www.cvilletomorrow.org/wanna-try-an-e-bike-josh-carp-will-lend-you-his/)!
 
-We're a free e-bike lending library serving the Charlottesville area.
-You can visit and test-ride any of our e-bikes, or take one home for up to a week
-at a time. To sign up to borrow an e-bike, fill out [our signup form](https://forms.gle/9dx8FcBxav17x7C38)
-or email us at hi@ebikelibrarycville.org.
+<p style="font-size: 1.25em">
+  We're a free e-bike lending library serving the Charlottesville area.
+  You can visit and test-ride any of our e-bikes, or take one home for up to a week
+  at a time. To sign up to borrow an e-bike, fill out <a href="https://forms.gle/9dx8FcBxav17x7C38" target="_blank">our signup form</a>
+  or email us at <a href="mailto:hi@ebikelibrarycville.org">hi@ebikelibrarycville.org</a>
+</p>
 
 # Why e-bikes?
 
