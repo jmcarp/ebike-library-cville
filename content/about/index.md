@@ -12,19 +12,19 @@ us](mailto:hi@ebikelibrarycville.org) with any questions.
 
 * [RadRunner Plus](https://www.radpowerbikes.com/products/radrunner-plus-electric-utility-bike): Utility e-bike
  
-  <img src="/ebikes/RunnerPlus_side_700x.png" width=200 />
+  <img src="/ebikes/RunnerPlus_side_700x.png" width=200 alt="Image of RadRunner Plus" />
 
 * [Ride1Up Prodigy](https://ride1up.com/product/prodigy/): Commuter e-bike
 
-  <img src="/ebikes/Prodigy_ST_Chalk-1400x840.jpeg" width=200 />
+  <img src="/ebikes/Prodigy_ST_Chalk-1400x840.jpeg" width=200 alt="Image of Ride1Up Prodigy" />
 
 * [RadMission](https://www.radpowerbikes.com/products/radmission-electric-city-bike): Single-speed e-bike
 
-  <img src="/ebikes/MissionMS_white_side_700x.png" width=200 />
+  <img src="/ebikes/MissionMS_white_side_700x.png" width=200 alt="Image of RadMission" />
 
 * [RadWagon 4](https://www.radpowerbikes.com/products/radwagon-electric-cargo-bike): Cargo e-bike (temporarily unavailable)
 
-  <img src="/ebikes/WagonOrange_side1to1_700x.png" width=200 />
+  <img src="/ebikes/WagonOrange_side1to1_700x.png" width=200 alt="Image of RadWagon 4" />
 
 ### Eligibility
 

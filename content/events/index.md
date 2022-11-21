@@ -1,11 +1,10 @@
 # Events
 
-## Past
+### Past
 
 Fall 2022 e-bike demo day, organized by [Livable Cville](http://livablecville.org):
 
-<img src="/ebike-demo-day-1016-flyer.jpg" alt="E-bike demo day flyer"
-width="400"/>
+<img src="/ebike-demo-day-1016-flyer.jpg" alt="E-bike demo day flyer" width="400" />
 
 Spring 2022 e-bike demo day:
 
