@@ -2,7 +2,7 @@
 
 # Free stuff
 
-## E-bike discounts
+### E-bike discounts
 
 If you're buying an e-bike online, you can often save at least $50 using
 a referral code. You can get a code from a friend or use one of ours.
@@ -14,15 +14,17 @@ know](mailto:hi@ebikelibrarycville.org) and we'll set up referrals.
 * Aventon: https://prz.io/XgyBjx4tK
 * Blix: http://blixbike.refr.cc/cvilleebikelendingli
 * KBO: http://kbobike.refr.cc/charlottesvilleebike
+* Propella: https://www.propellasg.com/?r=usr_2HpyAnASNiIIcYTVEiIFqIdLZKE
 * Rad Power Bikes: http://rwrd.io/mt2dtbd?c
 * Radio Flyer: https://flyer.radioflyer.com/?ref=REFJNTBCRELOLCJ
 * Ride1Up: https://ride1up.com/?wpam_id=1079
+* Velotric: https://www.velotricbike.com/discount/REF50369?ref=KDFqnLDk
 
 If an e-bike is outside your budget, [let us
 know](mailto:hi@ebikelibrarycville.org) and we'll send you a referral
 credit for your preferred brand if we have any available.
 
-## Extra stuff
+### Extra stuff
 
 Sometimes we wind up with extra supplies to give away. [Let us
 know](mailto:hi@ebikelibrarycville.org) if you could use any of them:
