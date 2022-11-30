@@ -39,4 +39,4 @@ Index](https://bikeindex.org/). You can put a sticker on your bike and
 register it with Bike Index. If your bike gets stolen, you can notify
 Bike Index, and potential buyers will be able to figure out that the
 bike was stolen and should be returned to you. [Let us
-know](mailto:hi@ebikelibrarycville.org) if you want some stickers!)
+know](mailto:hi@ebikelibrarycville.org) if you want some stickers!
