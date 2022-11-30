@@ -31,3 +31,12 @@ know](mailto:hi@ebikelibrarycville.org) if you could use any of them:
 * [Rad saddle bag](https://www.radpowerbikes.com/products/saddle-bag)
 * [Onway basket](https://onway-ebikes.com/collections/accessories/products/fit-for-onway-mini-plus-ebike)
 * [Thule child seat](https://www.thule.com/en-us/child-bike-seats/rear-mounted-child-bike-seats/thule-yepp-nexxt-maxi-_-12080221)
+
+### Anti-theft stickers
+
+We also have a bunch of stickers from [Bike
+Index](https://bikeindex.org/). You can put a sticker on your bike and
+register it with Bike Index. If your bike gets stolen, you can notify
+Bike Index, and potential buyers will be able to figure out that the
+bike was stolen and should be returned to you. [Let us
+know](mailto:hi@ebikelibrarycville.org) if you want some stickers!)
