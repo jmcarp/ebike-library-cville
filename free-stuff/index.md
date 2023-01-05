@@ -13,6 +13,7 @@ know](mailto:hi@ebikelibrarycville.org) and we'll set up referrals.
 
 * Aventon: https://prz.io/XgyBjx4tK
 * Blix: http://blixbike.refr.cc/cvilleebikelendingli
+* Himiway: https://i.refs.cc/tHiwrnCH
 * KBO: http://kbobike.refr.cc/charlottesvilleebike
 * Propella: https://www.propellasg.com/?r=usr_2HpyAnASNiIIcYTVEiIFqIdLZKE
 * Rad Power Bikes: http://rwrd.io/mt2dtbd?c
