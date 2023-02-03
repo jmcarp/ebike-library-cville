@@ -733,6 +733,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Free stuff"
     url = "/free-stuff/"
   [[menu.main]]
+    weight = 1
+    identifier = "safety"
+    name = "Safety"
+    url = "/safety/"
+  [[menu.main]]
     weight = 2
     identifier = "events"
     name = "Events"
