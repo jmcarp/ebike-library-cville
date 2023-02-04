@@ -18,5 +18,7 @@
     to ride in the road, although drivers may not know it. You can also
     borrow a [bike horn](https://us.hornit.com/products/v3-db140) to get
     drivers' attention.
+* Follow charging instructions. Charge e-bike batteries as directed, and
+    don't overcharge or charge batteries unattended.
 
 Read more at https://www.bicycling.com/culture/g20085571/ride-electric-bike-safely.

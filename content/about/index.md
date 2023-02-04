@@ -1,13 +1,5 @@
 # About
 
-E-bikes are a great way to replace short car trips. But most affordable
-e-bikes are sold online, so it's not always easy to try an e-bike before
-you buy one. The Charlottesville E-bike Lending Library is a free
-service that lends out e-bikes for up to a week so you can try an e-bike
-(or a few) and decide whether you want to get one yourself. [Sign
-up](https://forms.gle/ZykVSUUp2KPBHxfv5) to borrow an e-bike or [contact
-us](mailto:hi@ebikelibrarycville.org) with any questions.
-
 ### Our E-bikes
 
 * [RadRunner Plus](https://www.radpowerbikes.com/products/radrunner-plus-electric-utility-bike): Utility e-bike
