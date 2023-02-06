@@ -4,39 +4,23 @@
 
 ### Our E-bikes
 
-* [RadRunner Plus](https://www.radpowerbikes.com/products/radrunner-plus-electric-utility-bike): Utility e-bike
- 
+* [RadRunner Plus](https://www.radpowerbikes.com/products/radrunner-plus-electric-utility-bike): Utility e-bike with wide tires and a low stepover height. Great for carrying cargo or a passenger; you can borrow a child seat for kids under 40lb.
+
   <img src="/ebikes/RunnerPlus_side_700x.png" width=200 alt="Image of RadRunner Plus" />
 
-* [Ride1Up Prodigy](https://ride1up.com/product/prodigy/): Commuter e-bike
+* [Lectric XP 3.0](https://lectricebikes.com/collections/xp-3-0-series). Folding utility e-bike with wide tires and a low stepover height. Great for carrying cargo or a passenger; you can borrow a child seat for kids under 40lb.
+
+  <img src="/ebikes/WST-stock_ebd3778f-7b18-41cc-897c-93d482bfbbee_1100x.png" width=200 alt="Image of Lectric XP 3.0" />
+
+* [Ride1Up Prodigy](https://ride1up.com/product/prodigy/): Commuter e-bike with a mid-step frame and a mid-drive motor. Doesn't have a throttle, but may convince you that you don't need one.
 
   <img src="/ebikes/Prodigy_ST_Chalk-1400x840.jpeg" width=200 alt="Image of Ride1Up Prodigy" />
 
-* [RadMission](https://www.radpowerbikes.com/products/radmission-electric-city-bike): Single-speed e-bike
+* [RadMission](https://www.radpowerbikes.com/products/radmission-electric-city-bike): Single-speed e-bike with a mid-step frame. Surprisingly capable on hills, but you'll have to pedal.
 
   <img src="/ebikes/MissionMS_white_side_700x.png" width=200 alt="Image of RadMission" />
 
-* [RadWagon 4](https://www.radpowerbikes.com/products/radwagon-electric-cargo-bike): Cargo e-bike (temporarily unavailable)
+* [RadWagon 4](https://www.radpowerbikes.com/products/radwagon-electric-cargo-bike): Cargo e-bike (temporarily unavailable).
 
   <img src="/ebikes/WagonOrange_side1to1_700x.png" width=200 alt="Image of RadWagon 4" />
-
-### Eligibility
-
-* We really don't want our e-bikes to get stolen, so you should be able
-    to store one indoors at home, and have a secure place to lock it up
-    if you’re commuting to work or to school. We'll provide a lock and
-    show you how to use it. We also use a tracker to help prevent the
-    e-bikes from being stolen.
-* You should be comfortable riding a standard bicycle and familiar with
-    local bicycling rules. If you're planning to commute on the e-bike,
-    you should map out a route that you’ll feel safe on. If you need
-    help choosing a route, [let us
-    know](mailto:hi@ebikelibrarycville.org)!
-* E-bikes are generally heavier than standard bikes, and ours weigh
-    between 45 and 75 lb. If you'll need to carry an e-bike up or down
-    stairs, you might want to try one of our ligher e-bikes.
-
-### Testimonials
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Borrowing an eBike from <a href="https://twitter.com/whatthecarp?ref_src=twsrc%5Etfw">@whatthecarp</a> and <a href="https://twitter.com/RoryStolzenberg?ref_src=twsrc%5Etfw">@RoryStolzenberg</a> this week! First commute to work was a success—80 degrees and not too sweaty😅 <a href="https://t.co/34oQu8CEy9">pic.twitter.com/34oQu8CEy9</a></p>&mdash; Greg @ Green New Deal🌹🌍✊ (@ScoreVGM) <a href="https://twitter.com/ScoreVGM/status/1544663236611637250?ref_src=twsrc%5Etfw">July 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
