@@ -1,4 +1,5 @@
-> Read about us in [Charlottesville Tomorrow](https://www.cvilletomorrow.org/wanna-try-an-e-bike-josh-carp-will-lend-you-his/)!
+> Read about us in [Charlottesville Tomorrow](https://www.cvilletomorrow.org/wanna-try-an-e-bike-josh-carp-will-lend-you-his/)
+> See us on [CBS 19](https://www.cbs19news.com/story/48516458/local-man-running-electric-bike-lending-library)
 
 # Curious about e-bikes? Try one from the Charlottesville E-bike Lending Library!
 
@@ -12,7 +13,7 @@ collection of e-bikes that we lend out to community members for up to a
 week, for free. You can experience your daily commute, go grocery
 shopping, or even bike your kids to school, and decide whether e-bikes
 are right for you. [Sign up](https://forms.gle/ZykVSUUp2KPBHxfv5) to
-borrow an e-bike or [contact us](hi@ebikelibrarycville.org) with any
+borrow an e-bike or [contact us](mailto:hi@ebikelibrarycville.org) with any
 questions.
 
 ### How it works
