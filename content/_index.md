@@ -1,5 +1,4 @@
-> Read about us in [Charlottesville Tomorrow](https://www.cvilletomorrow.org/wanna-try-an-e-bike-josh-carp-will-lend-you-his/)
-> See us on [CBS 19](https://www.cbs19news.com/story/48516458/local-man-running-electric-bike-lending-library)
+> Read about us in [Charlottesville Tomorrow](https://www.cvilletomorrow.org/wanna-try-an-e-bike-josh-carp-will-lend-you-his/) or see us on [CBS 19](https://www.cbs19news.com/story/48516458/local-man-running-electric-bike-lending-library)!
 
 # Curious about e-bikes? Try one from the Charlottesville E-bike Lending Library!
 
