@@ -32,8 +32,10 @@ You should also be comfortable riding a standard bicycle before trying
 an e-bike.
 
 The E-bike Library is run by me, Josh Carp, using my own e-bikes and
-some e-bikes donated by friends and neighbors. The e-bikes are stored in
-my laundry room and shed at my home in Fifeville:
+some e-bikes donated by friends and neighbors. The e-bikes are free to
+borrow, but you're welcome to make a small donation to help cover
+maintenance costs if you would like. The e-bikes are stored in my
+laundry room and shed at my home in Fifeville:
 
 <img src="/ebikes/DSC3796-scaled.jpg" width=600 alt="E-bikes at the library" />
 
