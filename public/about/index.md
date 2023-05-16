@@ -20,7 +20,7 @@
 
   <img src="/ebikes/MissionMS_white_side_700x.png" width=200 alt="Image of RadMission" />
 
-* [RadWagon 4](https://www.radpowerbikes.com/products/radwagon-electric-cargo-bike): Cargo e-bike (temporarily unavailable).
+* [RadWagon 4](https://www.radpowerbikes.com/products/radwagon-electric-cargo-bike): Cargo e-bike.
 
   <img src="/ebikes/WagonOrange_side1to1_700x.png" width=200 alt="Image of RadWagon 4" />
 
