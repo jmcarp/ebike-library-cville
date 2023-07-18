@@ -13,15 +13,38 @@ e-bike and taking care of it once it arrives.
   different use cases. If you're planning on carrying cargo or kids, it might be worth
   springing for an e-bike with a high-capacity rear rack and high-quality brakes (we
   prefer hydraulic brakes for cargo).
-- Read reviews. There are many e-bike review sites out there.
-  [Electric Bike Report](https://electricbikereport.com) has reviews of many popular
+- Read reviews. [Electric Bike Report](https://electricbikereport.com) and
+  [Electric Bike Review](https://electricbikereview.com) have reviews of many popular
   brands and models. There's also a very active and friendly
   [subreddit](https://reddit.com/r/ebikes), and Facebook groups for many popular e-bike
   makers. Of course, take anything you read online with a grain of salt.
-- Figure out maintenance. Many bike shops in the Charlottesville area will do mechanical
-  work on e-bikes, like adjusting your brakes or doing a tune-up. But they may not be able
-  to work on the electronics in your e-bike. Ask a bike shop if they'll work on the e-bike
-  you're considering.
+- Make a plan for maintenance. Many bike shops in the Charlottesville area will do
+  mechanical work on e-bikes, like adjusting your brakes or doing a tune-up. But they may
+  not be able to work on the electronics in your e-bike. Ask a bike shop if they'll work
+  on the e-bike you're considering.
+
+### Where to buy an e-bike
+
+- Local or online. Several local bike shops in the Charlottesville area sell e-bikes. You
+  can also order an e-bike online from a growing number of companies. Prices are typically
+  lower online, but keep in mind that you won't have to assemble a bike that you buy from
+  a local shop, and you'll typically receive free or discounted maintenance if you buy
+  locally.
+- Budget bikes. You can find decent e-bikes for as little as $800, especially if you don't
+  need high-end features. But do your homework before buying an e-bike from an e-commerce
+  company like Amazon or Walmart. It may be difficult to find independent reviews for
+  e-bikes sold on Amazon, and spare parts may be hard to come by. If you're looking for an
+  affordable e-bike, we recommend starting with a guide like Electric Bike Review's
+  [Best Cheap Electric Bikes](https://electricbikereport.com/best-cheap-electric-bikes).
+- Look for discounts. Both local shops and online e-bike sellers tend to offer holiday
+  sales, as well as discounts on older models. You can also
+  [get a coupon from us](/free-stuff#e-bike-discounts) for certain brands. Some brands,
+  like [Aventon](https://shop.id.me/stores/9973-aventon-bikes) and
+  [Juiced](https://www.juicedbikes.com/pages/exclusive-discounts) also offer discounts to
+  students, teachers, health care workers, or veterans.
+- Consider a used e-bike. You can buy a used e-bike with a warranty from
+  [Upway](https://upway.co), or check Facebook Marketplace or Craigslist. You may find a
+  lightly used e-bike for a better price than a new lower-end model.
 
 ### Once you get your e-bike
 
