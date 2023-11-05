@@ -2,27 +2,37 @@
 
 ### Our E-bikes
 
-- [RadRunner Plus](https://www.radpowerbikes.com/collections/electric-bikes/products/radrunner-plus-electric-utility-bike?sref_id=mt2dtbd):
-  Utility e-bike with wide tires and a low stepover height. Great for carrying cargo or a
-  passenger; you can borrow a child seat for kids under 40lb.
+#### Commuter e-bikes
 
-  Typically sells for $1849-1999 from [Rad Power Bikes](http://rwrd.io/mt2dtbd?c).
+- [Aventon Level.2](https://www.aventon.com/products/aventon-level-step-through-commuter-ebike?variant=42027621417155&ll_ref_id=XgyBjx4tK):
+  Commuter e-bike with a step-through frame. The Level.2 has a maximum assisted speed of
+  28mph. It has a torque sensor for responsive pedal assist, as well as a throttle.
 
-  <img src="/ebikes/RunnerPlus_side_700x.png" width=200 alt="Image of RadRunner Plus" />
+  Usually sells for $1699-1799 from
+  [Aventon](https://www.aventon.com/?ll_ref_id=XgyBjx4tK). The manufacturer offers a 5%
+  discount for medical providers, military, nurses, first responders, students, and
+  teachers.
 
-- [Lectric XP 3.0](https://lectricebikes.com/collections/xp-3-0-series). Folding utility
-  e-bike with wide tires and a low stepover height. Great for carrying cargo or a
-  passenger; you can borrow a child seat for kids under 40lb.
+  You can also find Aventon e-bikes at [Black Dog Bikes](https://blackdogbikes.com/) in
+  Staunton, [Kul Wheels](https://www.kulwheels.com/) in Richmond, or
+  [Mole Hill Bikes](https://www.molehillbikes.com/) near Harrisonburg.
 
-  Typically sells for $999 from [Lectric](https://lectricebikes.com/).
+  <img src="/ebikes/Level2-Step-Through-Polar-01.jpg" width=200 alt="Image of
+  Aventon Level.2"/>
 
-  <img src="/ebikes/WST-stock_ebd3778f-7b18-41cc-897c-93d482bfbbee_1100x.png" width=200 alt="Image of Lectric XP 3.0" />
+- [Ride1Up Turris](https://ride1up.com/product/turris/). A cruiser-style e-bike with
+  swept-back handlebars and an upright riding position.
+
+  Usually sells for $1095-1295 from [Ride1Up](https://ride1up.com/).
+
+  <img src="/ebikes/Turris_ST_Green_Profile-1400x933.jpg" width=200 alt="Image of Ride1Up
+  Turris" />
 
 - [Ride1Up Prodigy](https://ride1up.com/product/prodigy/): Commuter e-bike with a mid-step
-  frame and a mid-drive motor. Doesn't have a throttle, but may convince you that you
-  don't need one.
+  frame and a mid-drive motor. Doesn't have a throttle, but since it uses a responsive
+  torque sensor, you probably won't miss it.
 
-  Tyipcally sells for $2195 to $2295 from [Ride1Up](https://ride1up.com/).
+  Usually sells for $2195 to $2295 from [Ride1Up](https://ride1up.com/).
 
   <img src="/ebikes/Prodigy_ST_Chalk-1400x840.jpeg" width=200 alt="Image of Ride1Up Prodigy" />
 
@@ -35,9 +45,28 @@
 
   <img src="/ebikes/MissionMS_white_side_700x.png" width=200 alt="Image of RadMission" />
 
+#### Cargo e-bikes
+
+- [RadRunner Plus](https://www.radpowerbikes.com/collections/electric-bikes/products/radrunner-plus-electric-utility-bike?sref_id=mt2dtbd):
+  Utility e-bike with wide tires and a low stepover height. Great for carrying cargo or a
+  passenger; you can borrow a child seat for kids under 40lb.
+
+  Usually sells for $1849-1999 from [Rad Power Bikes](http://rwrd.io/mt2dtbd?c).
+
+  <img src="/ebikes/RunnerPlus_side_700x.png" width=200 alt="Image of RadRunner Plus" />
+
+- [Lectric XP 3.0](https://lectricebikes.com/collections/xp-3-0-series). Folding utility
+  e-bike with wide tires and a low stepover height. Great for carrying cargo or a
+  passenger; you can borrow a child seat for kids under 40lb, or a seat and extra
+  handlebar for older kids.
+
+  Usually sells for $999 from [Lectric](https://lectricebikes.com/).
+
+  <img src="/ebikes/WST-stock_ebd3778f-7b18-41cc-897c-93d482bfbbee_1100x.png" width=200 alt="Image of Lectric XP 3.0" />
+
 - [RadWagon 4](https://www.radpowerbikes.com/collections/electric-bikes/products/radwagon-electric-cargo-bike?sref_id=mt2dtbd):
   Cargo e-bike.
 
-  Typically sells for $1799 to $1999 from [Rad Power Bikes](http://rwrd.io/mt2dtbd?c).
+  Usually sells for $1799 to $1999 from [Rad Power Bikes](http://rwrd.io/mt2dtbd?c).
 
   <img src="/ebikes/WagonOrange_side1to1_700x.png" width=200 alt="Image of RadWagon 4" />
