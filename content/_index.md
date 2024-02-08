@@ -3,6 +3,9 @@
 > or see us on
 > [CBS 19](https://www.cbs19news.com/story/48516458/local-man-running-electric-bike-lending-library)!
 
+> New bike! Thanks to a donation from Velotric, we now have a T1ST
+> [available to borrow](/about).
+
 # Curious about e-bikes? Try one from the Charlottesville E-bike Lending Library!
 
 E-bikes are a great way to get around Charlottesville. But there are many brands and

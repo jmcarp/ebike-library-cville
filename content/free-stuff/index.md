@@ -8,7 +8,6 @@ Sometimes we wind up with extra supplies to give away.
 - [RadWagon caboose](https://www.radpowerbikes.com/products/radwagon-4-caboose)
 - [Rad saddle bag](https://www.radpowerbikes.com/products/saddle-bag)
 - [Onway basket](https://onway-ebikes.com/collections/accessories/products/fit-for-onway-mini-plus-ebike)
-- [Thule child seat](https://www.thule.com/en-us/child-bike-seats/rear-mounted-child-bike-seats/thule-yepp-nexxt-maxi-_-12080221)
 
 ### Anti-theft stickers
 

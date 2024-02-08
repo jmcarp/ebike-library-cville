@@ -4,6 +4,21 @@
 
 #### Commuter e-bikes
 
+- [Velotric T1ST](https://www.velotricbike.com/products/velotric-t1st-ebike?ref=KDFqnLDk):
+  Lightweight e-bike with a maximum assisted speed of 25mph. It has a torque sensor for
+  responsive pedal assist. It doesn't have a throttle, but at 36lb, you probably don't
+  need one.
+
+  Usually sells for $999-1499 from [Velotric](https://www.velotricbike.com/?ref=KDFqnLDk).
+  Velotric offers a
+  [$60 discount for students](https://www.velotricbike.com/pages/student-discount), or you
+  can save $50 with our [referral link](https://www.velotricbike.com/?ref=KDFqnLDk).
+
+  This bike was generously donated to the e-bike library by Velotric.
+
+  <img src="/ebikes/t1st_lava_right_side_540x.jpeg" width=200 alt="Image of
+  Velotric T1ST"/>
+
 - [Aventon Level.2](https://www.aventon.com/products/aventon-level-step-through-commuter-ebike?variant=42027621417155&ll_ref_id=XgyBjx4tK):
   Commuter e-bike with a step-through frame. The Level.2 has a maximum assisted speed of
   28mph. It has a torque sensor for responsive pedal assist, as well as a throttle.
@@ -32,7 +47,7 @@
   frame and a mid-drive motor. Doesn't have a throttle, but since it uses a responsive
   torque sensor, you probably won't miss it.
 
-  Usually sells for $2195 to $2295 from [Ride1Up](https://ride1up.com/).
+  Usually sells for $1895 to $2295 from [Ride1Up](https://ride1up.com/).
 
   <img src="/ebikes/Prodigy_ST_Chalk-1400x840.jpeg" width=200 alt="Image of Ride1Up Prodigy" />
 
@@ -51,7 +66,7 @@
   Utility e-bike with wide tires and a low stepover height. Great for carrying cargo or a
   passenger; you can borrow a child seat for kids under 40lb.
 
-  Usually sells for $1849-1999 from [Rad Power Bikes](http://rwrd.io/mt2dtbd?c).
+  Usually sells for $1799-1999 from [Rad Power Bikes](http://rwrd.io/mt2dtbd?c).
 
   <img src="/ebikes/RunnerPlus_side_700x.png" width=200 alt="Image of RadRunner Plus" />
 
