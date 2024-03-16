@@ -209,7 +209,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       typeit = false
       # whether to show social links
       # 是否显示社交账号
-      social = false
+      social = true
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
       disclaimer = ""
@@ -225,8 +225,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.social]
     GitHub = ""
     Linkedin = ""
-    Twitter = ""
-    Instagram = ""
+    Twitter = "ebikelibcville"
+    Instagram = "ebikelibrarycville"
     Facebook = ""
     Telegram = ""
     Medium = ""
