@@ -724,31 +724,36 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [menu]
   [[menu.main]]
     weight = 1
+    identifier = "borrow"
+    name = "Borrow a Bike"
+    url = "https://forms.gle/ZykVSUUp2KPBHxfv5"
+  [[menu.main]]
+    weight = 2
     identifier = "about"
     name = "About"
     url = "/about/"
   [[menu.main]]
-    weight = 2
+    weight = 3
     identifier = "support"
     name = "Support"
     url = "/support/"
   [[menu.main]]
-    weight = 3
+    weight = 4
     identifier = "free-stuff"
     name = "Free stuff"
     url = "/free-stuff/"
   [[menu.main]]
-    weight = 4
+    weight = 5
     identifier = "safety"
     name = "Safety"
     url = "/safety/"
   [[menu.main]]
-    weight = 5
+    weight = 6
     identifier = "get-yours"
     name = "Get Your E-bike"
     url = "/get-yours/"
   [[menu.main]]
-    weight = 6
+    weight = 7
     identifier = "events"
     name = "Events"
     url = "/events/"
