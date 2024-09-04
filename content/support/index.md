@@ -7,7 +7,7 @@ Charlottesville E-bike Lending Library from the designation drop-down).
 
 We also welcome volunteers who want to help get the word out about e-bikes, plan community
 events, and advocate for better bicycle and pedestrian infrastructure in the
-Charlottesville area. Get in touch at hi@ebikelibrarycville.com if you'd like to get
+Charlottesville area. Get in touch at hi@ebikelibrarycville.org if you'd like to get
 involved!
 
 > The Charlottesville E-bike Lending Library operates under a Joint Plan of Work with

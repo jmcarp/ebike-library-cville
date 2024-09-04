@@ -729,9 +729,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "https://forms.gle/ZykVSUUp2KPBHxfv5"
   [[menu.main]]
     weight = 2
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "our-bikes"
+    name = "Our Bikes"
+    url = "/our-bikes/"
   [[menu.main]]
     weight = 3
     identifier = "support"

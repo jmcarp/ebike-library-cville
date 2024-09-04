@@ -46,7 +46,7 @@ Fifeville:
 The e-bikes are free to borrow, but we welcome [donations and volunteers](/support) if
 you'd like to support our mission and help cover our costs.
 
-### Read more about [our bikes](/about)
+### Read more about [our bikes](/our-bikes)
 
 ### Pick up some [free stuff](/free-stuff)
 
