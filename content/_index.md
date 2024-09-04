@@ -1,22 +1,17 @@
-> Read about us in
-> [Charlottesville Tomorrow](https://www.cvilletomorrow.org/wanna-try-an-e-bike-josh-carp-will-lend-you-his/)
-> or see us on
-> [CBS 19](https://www.cbs19news.com/story/48516458/local-man-running-electric-bike-lending-library)!
+> Read about us in the
+> [Daily Progress](https://dailyprogress.com/news/local/charlottesville-e-bike-lending-library-is-helping-ease-residents-into-a-car-free-or-car/article_8a16a25e-e6eb-11ee-83fb-3b9f0719cad6.html)!
 
-> New bike! Thanks to a donation from Velotric, we now have a T1ST
-> [available to borrow](/about).
+> New bike! Thanks to a donation from Velotric, we now have a Discover 2
+> [available to borrow](/our-bikes).
 
 # Curious about e-bikes? Try one from the E-bike Lending Library!
 
-The Charlottesville E-bike Lending Library is a free, non-profit service working to expand
-access to e-bikes in the area. We have a small collection of e-bikes that we lend out to
-community members for up to a week, for free.
+Interested in buying an electric bike but not sure where to start? The Charlottesville
+E-bike Lending Library is a local nonprofit that lends out e-bikes for up to a week to
+help figure out whether an e-bike would be a good fit for you. Loans are free, but we
+depend on [donations](/support) to help cover the costs of maintaining our fleet.
 
 <div style="text-align: center; font-size: 30px; margin: 20px"><a href="/about/">Check out our bikes</a>!</div>
-
-E-bikes are a great way to get around Charlottesville. But there are many brands and
-styles to choose from, and because many e-bikes are sold online, it can be a challenge to
-try an e-bike before buying one.
 
 When you borrow a bike, you can experience your daily commute, go grocery shopping, or
 even bike your kids to school, and decide whether e-bikes are right for you.

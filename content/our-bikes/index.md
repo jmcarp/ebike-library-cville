@@ -97,7 +97,6 @@ toc: true
   Lightweight single-speed e-bike with a mid-step frame. Surprisingly capable on hills,
   but you'll have to pedal.
   [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSefLzfXU5QS_xS4bKv0DQSE2d25TCWmbvzkN1MUPkLYNyBjSQ/viewform?usp=pp_url&entry.115631363=RadMission:+Lightweight+commuter+bike).
-  <br style="clear:both" />
 
   <span style="font-size: 0.8em">This model is discontinued, but you can find similar
   models from various brands for about $800-1200. If you like this bike, you might also
