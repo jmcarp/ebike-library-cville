@@ -1,13 +1,18 @@
 # Free stuff
 
-### Extra stuff
+### E-bike discounts
 
-Sometimes we wind up with extra supplies to give away.
-[Let us know](mailto:hi@ebikelibrarycville.org) if you could use any of them:
+If you're buying an e-bike online, you can often save at least $50 using a referral code.
+You can get a code from a friend or use one of ours. If you use ours, we'll pass any
+credit we get to another local e-bike buyer. Many brands have referral codes, so if you're
+going to buy an e-bike from a company not listed here,
+[let us know](mailto:hi@ebikelibrarycville.org) and we'll set up referrals. Some brands
+also offer discounts for students, teachers, veterans, or medical workers, so check for
+those discounts before making a purchase.
 
-- [RadWagon caboose](https://www.radpowerbikes.com/products/radwagon-4-caboose)
-- [Rad saddle bag](https://www.radpowerbikes.com/products/saddle-bag)
-- [Onway basket](https://onway-ebikes.com/collections/accessories/products/fit-for-onway-mini-plus-ebike)
+- Aventon: https://www.talkable.com/x/d9wNg0
+- Blix: https://blixbike.refr.cc/default/u/joshcarp?s=sp&t=cp
+- Velotric: [Contact us](mailto:hi@ebikelibrary.org) for a 15% discount code.
 
 ### Anti-theft stickers
 
@@ -16,22 +21,3 @@ sticker on your bike and register it with Bike Index. If your bike gets stolen, 
 notify Bike Index, and potential buyers will be able to figure out that the bike was
 stolen and should be returned to you. [Let us know](mailto:hi@ebikelibrarycville.org) if
 you want some stickers!
-
-### E-bike discounts
-
-If you're buying an e-bike online, you can often save at least $50 using a referral code.
-You can get a code from a friend or use one of ours. If you use ours, we'll pass any
-credit we get to another local e-bike buyer. Many brands have referral codes, so if you're
-going to buy an e-bike from a company not listed here,
-[let us know](mailto:hi@ebikelibrarycville.org) and we'll set up referrals.
-
-- Aventon: https://prz.io/XgyBjx4tK
-- Blix: http://blixbike.refr.cc/cvilleebikelendingli
-- Himiway: https://i.refs.cc/tHiwrnCH
-- KBO: http://kbobike.refr.cc/charlottesvilleebike
-- Rad Power Bikes: http://rwrd.io/mt2dtbd?c
-- Radio Flyer: https://flyer.radioflyer.com/?ref=REFJNTBCRELOLCJ
-- Velotric: https://www.velotricbike.com/discount/REF50369?ref=KDFqnLDk
-
-If an e-bike is outside your budget, [let us know](mailto:hi@ebikelibrarycville.org) and
-we'll send you a referral credit for your preferred brand if we have any available.
