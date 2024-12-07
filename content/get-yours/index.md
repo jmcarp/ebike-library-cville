@@ -1,18 +1,30 @@
 # Get your own e-bike
 
 We don't sell e-bikes (or anything else), but we have some tips for finding your own
-e-bike and taking care of it once it arrives.
+e-bike and taking care of it once it arrives. And feel free to
+[get in touch](mailto:hi@ebikelibrarycville.org) with questions.
 
 ### Choosing an e-bike
 
 - **Try one first**. If possible, try the e-bike you want to buy before ordering one. If
   you can't try the specific model you want to buy, try an e-bike from the same company,
-  or an e-bike of a similar style.
+  or an e-bike of a similar style. You can borrow or test-ride any of
+  [our bikes](/our-bikes/), or stop by a local shop:
+  - [Endeavor Cycles](https://www.endeavorcycles.com/), Charlottesville: Marin e-bikes.
+  - [Blue Wheel Bicycles](https://www.bluewheel.com/), Charlottesville: Specialized and
+    Tern e-bikes.
+  - [Blue Ridge Cyclery](https://www.blueridgecyclery.com/), Charlottesville: Denago and
+    Trek e-bikes.
+  - [Black Dog Bikes](https://blackdogbikes.com/), Staunton: Aventon e-bikes.
+  - [Kul Wheels](https://www.kulwheels.com/), Richmond: Aventon, Velotric, and other
+    e-bikes.
+  - [Mole Hill Bikes](https://www.molehillbikes.com/), Harrisonburg: Rad, Gazelle, and
+    other e-bikes.
 - **Think about your use case**. Are you getting an e-bike to commute to work? To carry
   groceries home from the store? To bike a kid to school? Different e-bike models work for
   different use cases. If you're planning on carrying cargo or kids, it might be worth
   springing for an e-bike with a high-capacity rear rack and high-quality brakes (we
-  prefer hydraulic brakes for cargo).
+  prefer hydraulic brakes for cargo bikes).
 - **Read reviews**. [Electric Bike Report](https://electricbikereport.com) and
   [Electric Bike Review](https://electricbikereview.com) have reviews of many popular
   brands and models. There's also a very active and friendly
@@ -37,18 +49,17 @@ e-bike and taking care of it once it arrives.
   buy from a local shop, and you'll typically receive free or discounted maintenance if
   you buy locally.
 - **Budget bikes**. You can find decent e-bikes for as little as $800, especially if you
-  don't need high-end features. But do your homework before buying an e-bike from an
-  e-commerce company like Amazon or Walmart. It may be difficult to find independent
-  reviews for e-bikes sold on Amazon, and spare parts may be hard to come by. If you're
-  looking for an affordable e-bike, we recommend starting with a guide like Electric Bike
-  Review's
+  don't need high-end features. But think twice before buying an e-bike from an e-commerce
+  company like Amazon or Walmart. It may be difficult to find independent reviews for
+  e-bikes sold on Amazon, and spare parts can be hard to come by. If you're looking for an
+  affordable e-bike, we recommend starting with a guide like Electric Bike Review's
   [Best Cheap Electric Bikes](https://electricbikereport.com/best-cheap-electric-bikes).
 - **Look for discounts**. Both local shops and online e-bike sellers tend to offer holiday
   sales, as well as discounts on older models. You can also
-  [get a coupon from us](/free-stuff#e-bike-discounts) for certain brands. Some brands,
-  like [Aventon](https://shop.id.me/stores/9973-aventon-bikes) and
-  [Juiced](https://www.juicedbikes.com/pages/exclusive-discounts) also offer discounts to
-  students, teachers, health care workers, or veterans.
+  [get a coupon from us](/free-stuff#e-bike-discounts) for certain brands, including 15%
+  off Velotric e-bikes. UVA also offers staff a $400 e-bike rebate, as well as a daily
+  incentive to walk or bike to work, through the
+  [Wahoo Commute](https://parking.virginia.edu/wahoocommute) program.
 - **Consider a used e-bike**. You can buy a used e-bike with a warranty from
   [Upway](https://upway.co), or check Facebook Marketplace or Craigslist. You may find a
   lightly used e-bike for a better price than a new lower-end model.

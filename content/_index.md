@@ -11,7 +11,7 @@ E-bike Lending Library is a local nonprofit that lends out e-bikes for up to a w
 help figure out whether an e-bike would be a good fit for you. Loans are free, but we
 depend on [donations](/support) to help cover the costs of maintaining our fleet.
 
-<div style="text-align: center; font-size: 30px; margin: 20px"><a href="/about/">Check out our bikes</a>!</div>
+<div style="text-align: center; font-size: 30px; margin: 20px"><a href="/our-bikes/">Check out our bikes</a>!</div>
 
 When you borrow a bike, you can experience your daily commute, go grocery shopping, or
 even bike your kids to school, and decide whether e-bikes are right for you.
