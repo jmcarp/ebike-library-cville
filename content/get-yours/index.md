@@ -56,10 +56,9 @@ e-bike and taking care of it once it arrives. And feel free to
   [Best Cheap Electric Bikes](https://electricbikereport.com/best-cheap-electric-bikes).
 - **Look for discounts**. Both local shops and online e-bike sellers tend to offer holiday
   sales, as well as discounts on older models. You can also
-  [get a coupon from us](/free-stuff#e-bike-discounts) for certain brands, including 15%
-  off Velotric e-bikes. UVA also offers staff a $400 e-bike rebate, as well as a daily
-  incentive to walk or bike to work, through the
-  [Wahoo Commute](https://parking.virginia.edu/wahoocommute) program.
+  [get a coupon from us](/free-stuff#e-bike-discounts) for some brands. UVA also offers
+  staff a $400 e-bike rebate, as well as a daily incentive to walk or bike to work,
+  through the [Wahoo Commute](https://parking.virginia.edu/wahoocommute) program.
 - **Consider a used e-bike**. You can buy a used e-bike with a warranty from
   [Upway](https://upway.co), or check Facebook Marketplace or Craigslist. You may find a
   lightly used e-bike for a better price than a new lower-end model.

@@ -12,7 +12,7 @@ those discounts before making a purchase.
 
 - Aventon: https://www.talkable.com/x/d9wNg0
 - Blix: https://blixbike.refr.cc/default/u/joshcarp?s=sp&t=cp
-- Velotric: [Contact us](mailto:hi@ebikelibrary.org) for a 15% discount code.
+- Velotric: http://rwrd.io/vssigg7?c
 
 ### Anti-theft stickers
 
