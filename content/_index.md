@@ -1,8 +1,8 @@
-> Read about us in the
-> [Daily Progress](https://dailyprogress.com/news/local/charlottesville-e-bike-lending-library-is-helping-ease-residents-into-a-car-free-or-car/article_8a16a25e-e6eb-11ee-83fb-3b9f0719cad6.html)!
+> New: UVA employees may be eligible for e-bike rebates via
+> [Wahoo Commute](https://parking.virginia.edu/wahoocommute).
 
-> New bike! Thanks to a donation from Velotric, we now have a Discover 2
-> [available to borrow](/our-bikes).
+> New: Charlottesville is launching a pilot
+> [e-bike voucher lottery](https://cvilleebike.com/) for city residents.
 
 # Curious about e-bikes? Try one from the E-bike Lending Library!
 
@@ -22,18 +22,17 @@ even bike your kids to school, and decide whether e-bikes are right for you.
 
 - Contact us to let us know which e-bike(s) you'd like to try.
 - We'll get in touch to schedule a time to borrow an e-bike.
-- Visit the library in Fifeville to pick up an e-bike. If you haven't ridden an e-bike
-  before, expect this to take 15-30 minutes, or longer if you want to try more than one
-  e-bike.
+- Visit the library in Fifeville to pick up an e-bike. Expect this to take 15-30 minutes,
+  or longer if you want to try more than one e-bike.
 - Enjoy e-biking for up to a week, then bring the e-bike back to the library.
 - You can borrow an e-bike more than once, or borrow multiple e-bikes.
 
-To be eligible, you must be 18 or older, and have a secure place to store an e-bike at
+To be eligible, you must be 18 or older and have a secure place to store an e-bike at
 home, and at work or school if you plan to commute. You should also be comfortable riding
 a standard bicycle before trying an e-bike.
 
-The E-bike Library is run by me, Josh Carp, using my own e-bikes and some e-bikes donated
-by friends and neighbors. The e-bikes are stored in my laundry room and shed at my home in
+The E-bike Library is run by me, Josh Carp, using my own e-bikes and e-bikes donated by
+friends and neighbors. The e-bikes are stored in my laundry room and shed at my home in
 Fifeville:
 
 <img src="/ebikes/DSC3796-scaled.jpg" width=600 alt="E-bikes at the library" />
