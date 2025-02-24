@@ -12,7 +12,7 @@ those discounts before making a purchase.
 
 - Aventon: https://www.talkable.com/x/d9wNg0
 - Blix: https://blixbike.refr.cc/default/u/joshcarp?s=sp&t=cp
-- Velotric: http://rwrd.io/vssigg7?c
+- Velotric: https://rwrd.io/ref_IQMJBVA?c
 
 ### Anti-theft stickers
 

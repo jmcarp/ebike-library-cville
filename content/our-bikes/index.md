@@ -14,9 +14,9 @@ toc: true
   [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSefLzfXU5QS_xS4bKv0DQSE2d25TCWmbvzkN1MUPkLYNyBjSQ/viewform?usp=pp_url&entry.115631363=Velotric+Discover+2:+Upright+commuter+bike+with+torque+assist).
 
   <span style="font-size: 0.8em">Usually sells for $1899 from
-  [Velotric](http://rwrd.io/vssigg7?c). You can use our discount link at
-  http://rwrd.io/vssigg7?c for 10% off Velotric bikes. You can also find Velotric bikes in
-  person at [Kul Wheels](https://kulwheels.com) in Richmond.</span>
+  [Velotric](https://rwrd.io/ref_IQMJBVA?c). You can use our discount link at
+  https://rwrd.io/ref_IQMJBVA?c for 10% off Velotric bikes. You can also find Velotric
+  bikes in person at [Kul Wheels](https://kulwheels.com) in Richmond.</span>
 
   <span style="font-size: 0.8em">This bike was generously donated to the e-bike library by
   Velotric.</span><br style="clear:both" />
@@ -46,9 +46,9 @@ toc: true
   [Borrow this bike](https://docs.google.com/forms/d/e/1FAIpQLSefLzfXU5QS_xS4bKv0DQSE2d25TCWmbvzkN1MUPkLYNyBjSQ/viewform?usp=pp_url&entry.115631363=Velotric+T1ST:+Lightweight+commuter+bike+with+torque+assist).
 
   <span style="font-size: 0.8em">Usually sells for $1199-1549 from
-  [Velotric](http://rwrd.io/vssigg7?c). You can use our discount link at
-  http://rwrd.io/vssigg7?c for 10% off Velotric bikes. You can also find Velotric bikes in
-  person at [Kul Wheels](https://kulwheels.com) in Richmond.</span>
+  [Velotric](https://rwrd.io/ref_IQMJBVA?c). You can use our discount link at
+  https://rwrd.io/ref_IQMJBVA?c for 10% off Velotric bikes. You can also find Velotric
+  bikes in person at [Kul Wheels](https://kulwheels.com) in Richmond.</span>
 
   <span style="font-size: 0.8em">This bike was generously donated to the e-bike library by
   Velotric.</span><br style="clear:both" />
