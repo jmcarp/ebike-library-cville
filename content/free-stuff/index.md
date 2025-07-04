@@ -10,7 +10,7 @@ going to buy an e-bike from a company not listed here,
 also offer discounts for students, teachers, veterans, or medical workers, so check for
 those discounts before making a purchase.
 
-- Aventon: https://www.talkable.com/x/d9wNg0
+- Aventon: https://www.talkable.com/x/PwLyj8
 - Blix: https://blixbike.refr.cc/default/u/joshcarp?s=sp&t=cp
 - Velotric: https://rwrd.io/ref_IQMJBVA?c
 
