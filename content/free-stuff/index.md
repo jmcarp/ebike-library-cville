@@ -11,8 +11,8 @@ also offer discounts for students, teachers, veterans, or medical workers, so ch
 those discounts before making a purchase.
 
 - Aventon: https://www.talkable.com/x/PwLyj8
-- Blix: https://blixbike.refr.cc/default/u/joshcarp?s=sp&t=cp
 - Velotric: https://rwrd.io/ref_IQMJBVA?c
+- Upway: [Email us](mailto:hi@ebikelibrary.org?subject=Upway) for a $150 discount code.
 
 ### Anti-theft stickers
 
