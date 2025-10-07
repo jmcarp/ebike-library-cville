@@ -9,7 +9,9 @@
 Interested in buying an electric bike but not sure where to start? The Charlottesville
 E-bike Lending Library is a local nonprofit that lends out e-bikes for up to a week to
 help figure out whether an e-bike would be a good fit for you. Loans are free, but we
-depend on [donations](/support) to help cover the costs of maintaining our fleet.
+depend on
+[donations](https://www.every.org/charlottesville-e-bike-lending-library?suggestedAmounts=30%2C50%2C100&utm_campaign=donate-link#/donate)
+to help cover the costs of maintaining our fleet.
 
 <div style="text-align: center; font-size: 30px; margin: 20px"><a href="/our-bikes/">Check out our bikes</a>!</div>
 
@@ -37,8 +39,8 @@ Fifeville:
 
 <img src="/ebikes/DSC3796-scaled.jpg" width=600 alt="E-bikes at the library" />
 
-The e-bikes are free to borrow, but we welcome [donations and volunteers](/support) if
-you'd like to support our mission and help cover our costs.
+The e-bikes are free to borrow, but we welcome
+[donations](https://www.every.org/charlottesville-e-bike-lending-library?suggestedAmounts=30%2C50%2C100&utm_campaign=donate-link#/donate).
 
 ### Read more about [our bikes](/our-bikes)
 

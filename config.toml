@@ -736,7 +736,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     weight = 3
     identifier = "support"
     name = "Support"
-    url = "/support/"
+    url = "https://www.every.org/charlottesville-e-bike-lending-library?suggestedAmounts=30%2C50%2C100&utm_campaign=donate-link#/donate"
   [[menu.main]]
     weight = 4
     identifier = "free-stuff"
