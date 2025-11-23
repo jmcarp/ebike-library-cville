@@ -10,7 +10,7 @@ going to buy an e-bike from a company not listed here,
 also offer discounts for students, teachers, veterans, or medical workers, so check for
 those discounts before making a purchase.
 
-- Aventon: https://www.talkable.com/x/PwLyj8
+- Aventon: https://www.talkable.com/x/dfhNMt
 - Velotric: https://rwrd.io/ref_IQMJBVA?c
 - Upway: [Email us](mailto:hi@ebikelibrary.org?subject=Upway) for a $150 discount code.
 
