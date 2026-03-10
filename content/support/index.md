@@ -1,8 +1,9 @@
 # Support our mission
 
 We don't charge to borrow an e-bike, but we welcome donations to help cover maintenance
-and events. You can make a tax-deductible contribution
-[via Virginia Organizing](https://www.every.org/charlottesville-e-bike-lending-library?suggestedAmounts=30%2C50%2C100&utm_campaign=donate-link#/donate).
+and events. You can make a
+[tax-deductible contribution](https://www.every.org/charlottesville-e-bike-lending-library?suggestedAmounts=30%2C50%2C100&utm_campaign=donate-link#/donate)
+via Virginia Organizing.
 
 We also welcome volunteers who want to help get the word out about e-bikes, plan community
 events, and advocate for better bicycle and pedestrian infrastructure in the
