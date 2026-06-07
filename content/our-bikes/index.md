@@ -24,9 +24,10 @@ toc: true
 
   <span style="font-size: 0.8em">Usually sells for $1899. The manufacturer offers a 5%
   discount for medical providers, military, nurses, first responders, students, and
-  teachers, or get $50 off with our [discount code](https://www.talkable.com/x/TPrH6M).
-  You can also find Aventon e-bikes at [Black Dog Bikes](https://blackdogbikes.com/) in
-  Staunton, [Kul Wheels](https://www.kulwheels.com/) in Richmond, or
+  teachers, or get $50 off with our
+  [discount code](https://www.aventon.com/?share_link=ravek3it6). You can also find
+  Aventon e-bikes at [Black Dog Bikes](https://blackdogbikes.com/) in Staunton,
+  [Kul Wheels](https://www.kulwheels.com/) in Richmond, or
   [Mole Hill Bikes](https://www.molehillbikes.com/) near
   Harrisonburg.</span><br style="clear:both" />
 
@@ -130,9 +131,10 @@ toc: true
 
   <span style="font-size: 0.8em">Usually sells for $1899. The manufacturer offers a 5%
   discount for medical providers, military, nurses, first responders, students, and
-  teachers, or get $50 off with our [discount code](https://www.talkable.com/x/TPrH6M).
-  You can also find Aventon e-bikes at [Black Dog Bikes](https://blackdogbikes.com/) in
-  Staunton, [Kul Wheels](https://www.kulwheels.com/) in Richmond, or
+  teachers, or get $50 off with our
+  [discount code](https://www.aventon.com/?share_link=ravek3it6). You can also find
+  Aventon e-bikes at [Black Dog Bikes](https://blackdogbikes.com/) in Staunton,
+  [Kul Wheels](https://www.kulwheels.com/) in Richmond, or
   [Mole Hill Bikes](https://www.molehillbikes.com/) near
   Harrisonburg.</span><br style="clear:both" />
 
@@ -144,8 +146,9 @@ toc: true
 
   <span style="font-size: 0.8em">Usually sells for $1599. The manufacturer offers a 5%
   discount for medical providers, military, nurses, first responders, students, and
-  teachers, or get $50 off with our [discount code](https://www.talkable.com/x/TPrH6M).
-  You can also find Aventon e-bikes at [Black Dog Bikes](https://blackdogbikes.com/) in
-  Staunton, [Kul Wheels](https://www.kulwheels.com/) in Richmond, or
+  teachers, or get $50 off with our
+  [discount code](https://www.aventon.com/?share_link=ravek3it6). You can also find
+  Aventon e-bikes at [Black Dog Bikes](https://blackdogbikes.com/) in Staunton,
+  [Kul Wheels](https://www.kulwheels.com/) in Richmond, or
   [Mole Hill Bikes](https://www.molehillbikes.com/) near
   Harrisonburg.</span><br style="clear:both" />
